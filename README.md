@@ -1,4 +1,5 @@
 # Color Converter
+![Preview image](https://github.com/alyonazhabina/colorConverter/blob/master/template.png)
 
 Color Converter is a tool that represent color in visual perspective and in 2 encodings: HEX and RGB.
 
